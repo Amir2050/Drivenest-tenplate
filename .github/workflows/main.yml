@@ -1,0 +1,17 @@
+{
+  "client_name": {ClientName},
+  "service_task": {ServiceTask},
+  "status": {Status},
+  "dealer": {DealerName},
+  "requested_by": {RequestedByEmail},
+  "created_date": {CreatedDate},
+  "inspection_details": [
+    {"item": "Engine", "condition": "Good", "comments": "Oil changed, no issues found."},
+    {"item": "Brakes", "condition": "Fair", "comments": "Will need replacement in 3 months."},
+    {"item": "Tires", "condition": "Excellent", "comments": "Brand new tires installed."}
+  ],
+  "report_id": {ReportID},
+  "service_request_id": {ServiceRequestID},
+  "client_email": {ClientEmail},
+  "dealer_phone": {DealerPhone}
+}
